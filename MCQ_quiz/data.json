@@ -1,0 +1,50 @@
+{
+    "question":[
+        "Q1. What is the capital of New Zealand?",
+        "Q2. Phnom Penh is the capital of which country",
+        "Q3. What is the capital of Tajikistan?",
+        "Q4. Kampala is the capital of which country?",
+        "Q5. Havana is the capital off which country"
+
+    ],
+    "answer":[
+        1,
+        3,
+        4,
+        2,
+        1
+    ],
+
+    "options":[
+        ["Wellington",
+        "Auckland",
+        "Christchurch",
+        "Napier"
+        ],
+
+        ["Denmark",
+        "Canada",
+        "Cambodia",
+        "Cuba"
+        ],
+
+        ["Moscow",
+        "Dodoma",
+        "Damascus",
+        "Dushanbe"
+        ],
+
+        ["Kenya",
+         "Uganda",
+         "Egypt",
+         "Libya"   
+        ],
+
+        ["Cuba",
+         "Rwanda",
+         "Bolivia",
+         "New Zealand"
+        ]
+
+    ]
+}
